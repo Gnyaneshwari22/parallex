@@ -1,0 +1,10 @@
+.transform{
+    background-color: aqua;
+    /* transform: translate(100px,50px); */
+    /* transform: rotateX(45deg); */
+    margin: 200px;
+    /* transform:scale(2,1.7);
+    transform: scaleX(2);*/
+     transform: skew(50deg);
+
+} 
